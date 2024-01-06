@@ -1,0 +1,17 @@
+Employee Name: Mike Jarvis
+Employee Code: 673212
+
+Total Hours Worked: 40
+Hours Worked in Pay Period: 40
+Pay in Pay Period: $760.0
+Hours Worked in Overtime: 0
+Pay in Overtime: $0.0
+Gross Pay: $760.0
+
+Pension Cut: -$8.09
+EI Cut: -$7.6
+Union Dues: -$7.38
+Remaining Pay (Pre-Tax): $736.93
+
+Federal Income Tax Cut: -$110.54
+Net Pay!: $626.39

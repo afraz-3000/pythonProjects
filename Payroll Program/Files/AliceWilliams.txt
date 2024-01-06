@@ -1,0 +1,17 @@
+Employee Name: Alice Williams
+Employee Code: 123485
+
+Total Hours Worked: 40
+Hours Worked in Pay Period: 40
+Pay in Pay Period: $1600.0
+Hours Worked in Overtime: 0
+Pay in Overtime: $0.0
+Gross Pay: $1600.0
+
+Pension Cut: -$17.04
+EI Cut: -$16.0
+Union Dues: -$7.38
+Remaining Pay (Pre-Tax): $1559.58
+
+Federal Income Tax Cut: -$319.71
+Net Pay!: $1239.87

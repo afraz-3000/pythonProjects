@@ -1,0 +1,17 @@
+Employee Name: Mary Lee
+Employee Code: 975024
+
+Total Hours Worked: 50
+Hours Worked in Pay Period: 40
+Pay in Pay Period: $1940.0
+Hours Worked in Overtime: 10
+Pay in Overtime: $727.5
+Gross Pay: $2667.5
+
+Pension Cut: -$28.41
+EI Cut: -$26.68
+Union Dues: -$7.38
+Remaining Pay (Pre-Tax): $2605.03
+
+Federal Income Tax Cut: -$677.31
+Net Pay!: $1927.72

@@ -1,0 +1,17 @@
+Employee Name: Jeremy Habib
+Employee Code: 782367
+
+Total Hours Worked: 80
+Hours Worked in Pay Period: 40
+Pay in Pay Period: $1520.0
+Hours Worked in Overtime: 40
+Pay in Overtime: $2280.0
+Gross Pay: $3800.0
+
+Pension Cut: -$40.47
+EI Cut: -$38.0
+Union Dues: -$7.38
+Remaining Pay (Pre-Tax): $3714.15
+
+Federal Income Tax Cut: -$1077.1
+Net Pay!: $2637.05

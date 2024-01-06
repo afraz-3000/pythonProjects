@@ -1,0 +1,17 @@
+Employee Name: Raj Kumar
+Employee Code: 024685
+
+Total Hours Worked: 60
+Hours Worked in Pay Period: 40
+Pay in Pay Period: $3800.0
+Hours Worked in Overtime: 20
+Pay in Overtime: $2850.0
+Gross Pay: $6650.0
+
+Pension Cut: -$70.82
+EI Cut: -$66.5
+Union Dues: -$7.38
+Remaining Pay (Pre-Tax): $6505.3
+
+Federal Income Tax Cut: -$2146.75
+Net Pay!: $4358.55

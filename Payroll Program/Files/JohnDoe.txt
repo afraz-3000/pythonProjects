@@ -1,0 +1,17 @@
+Employee Name: John Doe
+Employee Code: 563563
+
+Total Hours Worked: 45
+Hours Worked in Pay Period: 40
+Pay in Pay Period: $1080.0
+Hours Worked in Overtime: 5
+Pay in Overtime: $202.5
+Gross Pay: $1282.5
+
+Pension Cut: -$13.66
+EI Cut: -$12.83
+Union Dues: -$7.38
+Remaining Pay (Pre-Tax): $1248.63
+
+Federal Income Tax Cut: -$255.97
+Net Pay!: $992.66
